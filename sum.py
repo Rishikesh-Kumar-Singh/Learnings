@@ -1,4 +1,4 @@
 a = 8
 b = 10
 c = a+b
-print(f'The sum of {a} and {b} is {c}')
+print(f'The summation of {a} and {b} is {c}')
